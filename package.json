@@ -1,0 +1,19 @@
+{
+  "name": "thepiggame",
+  "version": "1.0.0",
+  "description": "Rolling Dice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canicemichael/rollTheDice.git"
+  },
+  "author": "canicemichael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canicemichael/rollTheDice/issues"
+  },
+  "homepage": "https://github.com/canicemichael/rollTheDice#readme"
+}
